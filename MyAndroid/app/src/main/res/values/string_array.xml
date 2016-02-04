@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="main_titles">
+        <item>LinearLayout 线性布局(计算器)</item>
+        <item>FrameLayout 帧布局</item>
+        <item>RelativeLayout 相对布局(计算器)</item>
+        <item>GridLayout 网格布局(计算器)</item>
+        <item>TableLayout+RelativeLayout (计算器)</item>
+        <item>TextView</item>
+        <item>自定义button形状和五类监听事件</item>
+        <item>EditView</item>
+        <item>ImageView</item>
+        <item>RadioGroup_CheckBox</item>
+        <item>ProgressBar</item>
+        <item>ListView</item>
+        <item>Simpleadapter</item>
+        <item>MyBaseAdapter</item>
+        <item>AutoCompleteTextView</item>
+        <item>Spinner</item>
+        <item>GridView</item>
+        <item>Gallery</item>
+        <item>Dialog</item>
+        <item>Notification</item>
+        <item>Activity</item>
+        <item>Intent</item>
+        <item>FragmentAsView</item>
+        <item>FragmentLayout</item>
+        <item>Fragment learning</item>
+        <item>ViewPager learning</item>
+        <item>TestVerticalViewPager</item>
+        <item>ViewPager</item>
+        <item>Animation</item>
+        <item>Animator</item>
+        <item>TouchEvent</item>
+        <item>MyClock</item>
+        <item>BitMap</item>
+        <item>DataSave</item>
+        <item>SqliteDatabase</item>
+        <item>ContentProvider</item>
+        <item>Service</item>
+        <item>BindService</item>
+        <item>Static Register BroadcastReceiver</item>
+        <item>BroadcastReceiver 检测系统状态</item>
+        <item>WebView</item>
+        <item>第五周考试</item>
+        <item>JSON</item>
+        <item>Network</item>
+        <item>异步通信 AsyncTask</item>
+        <item>图片(Bitmap)缓存</item>
+        <item>二维码扫描</item>
+        <item>JAVA反射机制</item>
+    </string-array>
+
+</resources>

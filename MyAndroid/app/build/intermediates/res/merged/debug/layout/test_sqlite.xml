@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip" >
+
+        <Button
+            android:id="@+id/insert"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dip"
+            android:layout_weight="1"
+            android:background="@drawable/btn_background"
+            android:text="insert" />
+
+        <Button
+            android:id="@+id/delete"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dip"
+            android:layout_weight="1"
+            android:background="@drawable/btn_background"
+            android:text="delete" />
+
+        <Button
+            android:id="@+id/query"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dip"
+            android:layout_weight="1"
+            android:background="@drawable/btn_background"
+            android:text="query" />
+
+        <Button
+            android:id="@+id/update"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dip"
+            android:layout_weight="1"
+            android:background="@drawable/btn_background"
+            android:text="update" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/student_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@color/divider_color"
+        android:dividerHeight="0.5dip"
+        android:listSelector="@drawable/list_item_selector" >
+    </ListView>
+
+</LinearLayout><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/layout/test_sqlite.xml -->

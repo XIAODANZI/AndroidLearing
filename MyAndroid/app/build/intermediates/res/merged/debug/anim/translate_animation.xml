@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="3000"
+    android:fillAfter="true"
+    android:fromXDelta="0"
+    android:fromYDelta="0"
+    android:repeatCount="infinite"
+    android:repeatMode="reverse"
+    android:toXDelta="100%p"
+    android:toYDelta="100%" >
+
+</translate><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/anim/translate_animation.xml -->

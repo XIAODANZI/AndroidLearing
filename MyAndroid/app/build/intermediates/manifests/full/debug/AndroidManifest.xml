@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nineteen.myandroid"
+    android:versionCode="1"
+    android:versionName="1.0" >
+ <!-- 读写sdcard权限 -->
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <!-- android:sharedUserId="com.nineteen.myandroid" -->
+    <!-- 上面那句话在sharedPreferences使用，放在manifest里面 -->
+
+    <permission android:name="com.nineteen.myandroid.ACCESS_STUDENT" />
+    <permission android:name="com.nineteen.myandroid.GETCOUNTSERVICE" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 检测网络状态的权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 挂载和卸载文件系统权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <!-- 二维码权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:name="com.chen.learn.common.controller.MyAndroidApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.nineteen.myandroid.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.chen.test.layout.TestLinearLayout"
+            android:label="@string/calculator" />
+        <activity
+            android:name="com.chen.test.layout.TestFrameLayout"
+            android:label="@string/FrameLayoutTest" />
+        <activity
+            android:name="com.chen.test.layout.TestRelativeLayout"
+            android:label="@string/RelativeLayoutTest" />
+        <activity
+            android:name="com.chen.test.layout.TestGridLayout"
+            android:label="@string/GridLayoutTest" />
+        <activity
+            android:name="com.chen.test.layout.TestTableLayout"
+            android:label="@string/TableLayoutTest" />
+        <activity
+            android:name="com.chen.test.textview.TestTextView"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.chen.listenandcustomview.TestListener"
+            android:label="@string/listener" />
+        <activity
+            android:name="com.chen.test.textview.TextEditText"
+            android:theme="@android:style/Theme.Holo.NoActionBar" />
+        <activity android:name="com.chen.test.textview.TestImageView" />
+        <activity android:name="com.chen.test.textview.Test_RadioGroup_CheckBox" />
+        <activity android:name="com.chen.test.textview.TestProgressBar" />
+        <activity android:name="com.chen.adapterview.TestListView" />
+        <activity android:name="com.chen.adapterview.TestSimpleadapter" />
+        <activity android:name="com.chen.adapterview.TestMyBaseAdapter" />
+        <activity android:name="com.chen.test.textview.TestAutoCompleteTextView" />
+        <activity android:name="com.chen.adapterview.TestSpinner" />
+        <activity android:name="com.chen.test.textview.TestGridView" />
+        <activity android:name="com.chen.test.textview.TestGallery" />
+        <activity android:name="com.chen.dialog.TestDialog" />
+        <activity
+            android:name="com.chen.dialog.ActivityAsDialog"
+            android:label="@string/show_activity_dialog"
+            android:theme="@android:style/Theme.DeviceDefault.Light.Dialog" />
+        <activity android:name="com.chen.notificationandmenu.TestNotification" />
+        <activity android:name="com.chen.activity.TestActivity" />
+        <activity android:name="com.chen.activity.TestActvityLifecycle" />
+        <activity
+            android:name="com.chen.activity.TransparentActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity android:name="com.chen.activity.FirstActivity" />
+        <activity android:name="com.chen.activity.SecondActivity" />
+        <activity android:name="com.chen.activity.LaunchMode" />
+        <activity
+            android:name="com.chen.activity.StandardSelf"
+            android:launchMode="standard" />
+        <activity android:name="com.chen.activity.StandardOther" />
+        <activity
+            android:name="com.chen.activity.SingleTopSelf"
+            android:launchMode="singleTop" />
+        <activity android:name="com.chen.activity.SingleTopOther" />
+        <activity
+            android:name="com.chen.activity.SingleTaskSelf"
+            android:label="SingleTaskSelf"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="ImplicitCall" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="SingleTaskSelf" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.chen.activity.SingleTaskOther"
+            android:label="SingleTaskOther" >
+            <intent-filter>
+                <action android:name="ImplicitCall" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.chen.activity.SingleInstanceSelf"
+            android:exported="true"
+            android:launchMode="singleInstance" />
+        <activity android:name="com.chen.activity.SingleInstanceOther" />
+        <activity android:name="com.chen.intent.TestIntent" />
+        <activity android:name="com.chen.fragment.FragmentAsView" />
+        <activity android:name="com.chen.fragment.FragmentLayout" />
+        <activity
+            android:name="com.chen.fragment.DetailsActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+
+            <!-- 上面那句话可以防止重走生命周期 -->
+        </activity>
+        <activity android:name="com.chen.fragment.QQMain" />
+        <activity android:name="com.chen.animation.TestAnimation" />
+        <activity android:name="com.chen.animation.TestRotateAnimation" />
+        <activity android:name="com.chen.animation.TestAlphaAnimation" />
+        <activity android:name="com.chen.animation.TestAnimationSet" />
+        <activity android:name="com.chen.animation.TestScaleAnimation" />
+        <activity android:name="com.chen.animation.TestTranslateAnimation" />
+        <activity android:name="com.chen.animation.TestFrameAnimation" />
+        <activity android:name="com.chen.animation.controller.LeafLoadingActivity" />
+        <activity android:name="com.chen.animator.TestAnimator" />
+        <activity android:name="com.chen.animator.XMLForAnimator" />
+        <activity android:name="com.chen.animator.TestObjectAnimator" />
+        <activity android:name="com.chen.animator.TestAnimatorSet" />
+        <activity android:name="com.chen.animator.TestViewAnimator" />
+        <activity android:name="com.chen.animator.TestLayoutTransition" />
+        <activity android:name="com.chen.animator.TestValueAnimator" />
+        <activity android:name="com.chen.animator.BouncingBalls" />
+        <activity android:name="com.chen.touchevent.TestTouchEvent" />
+        <activity android:name="com.chen.canvas.TestMyClock" />
+        <activity
+            android:name="com.chen.viewpager.TestViewPager"
+            android:label="@string/angryBirds"
+            android:theme="@android:style/Theme.Holo.NoActionBar" />
+        <activity android:name="com.chen.viewpager.TestViewPagerLearning" />
+        <activity android:name="com.chen.viewpager.TestVerticalViewPager" />
+        <activity
+            android:name="com.chen.viewpager.ContentActivity"
+            android:theme="@android:style/Theme.Holo.NoActionBar" />
+        <activity android:name="com.chen.datasave.TestSharedPreferences" />
+        <activity android:name="com.chen.datasave.TestFiles" />
+        <activity android:name="com.chen.datasave.TestDataSave" />
+        <activity android:name="com.chen.database.TestSqliteDatabase" />
+        <activity android:name="com.chen.service.TestBindService" />
+        <activity android:name="com.chen.database.TestContentProvider" />
+        <activity android:name="com.chen.broadcast_receiver.TestBroadcastReceiver" />
+        <activity android:name="com.chen.broadcast_receiver.TestAcvtivity" />
+        <activity android:name="com.chen.service.TestService" />
+        <activity android:name="com.chen.webview.TestWebViewMain" />
+        <activity android:name="com.chen.webview.TestWebHtml" />
+        <activity android:name="com.chen.webview.TestLocalHtml" />
+        <activity
+            android:name="com.chen.fifth.test.MainActivity_Home"
+            android:theme="@android:style/Theme.Light.NoTitleBar" />
+        <activity
+            android:name="com.chen.fifth.test.EditLogActivity"
+            android:theme="@android:style/Theme.Light.NoTitleBar" />
+        <activity
+            android:name="com.chen.fifth.test.CheckLogActivity"
+            android:theme="@android:style/Theme.Light.NoTitleBar" />
+        <activity android:name="com.chen.webview.TestLocalJS" />
+        <activity android:name="com.chen.webview.TestLocalCheck" />
+        <activity android:name="com.chen.webview.DynamicInjectJS" />
+        <activity android:name="com.chen.webview.LoginCSDN" />
+        <activity android:name="com.chen.webview.ParseJSON" />
+        <activity android:name="com.chen.json.GetProjects" />
+        <activity android:name="com.chen.network.TestNetwork" />
+        <activity android:name="com.chen.network.TestURLConnection" />
+        <activity android:name="com.chen.network.GetWeatherFromURL" />
+        <activity android:name="com.chen.network.TestAsyncTask" />
+        <activity android:name="com.chen.network.TestNetworkBitmap" />
+
+        <!-- 二维码扫描 -->
+        <activity
+            android:name="com.chen.learn.bar_code.controller.CaptureActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.chen.learn.bar_code.controller.ResultActivity"
+            android:screenOrientation="portrait" />
+        <!-- JAVA反射机制 -->
+        <activity
+            android:name="com.chen.learn.reflex_mechanism.controller.ReflexMechanismTestActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- 服务 -->
+        <service android:name="com.chen.service.Myservice" />
+        <service android:name="com.chen.service.MyBindService" />
+
+        <provider
+            android:name="com.chen.database.StudentProvider"
+            android:authorities="com.nineteen.myandroid.StudentProvider"
+            android:exported="true"
+            android:permission="com.nineteen.myandroid.ACCESS_STUDENT" />
+
+        <service
+            android:name="com.chen.service.GetCountService"
+            android:exported="true"
+            android:permission="com.nineteen.myandroid.GETCOUNTSERVICE" >
+            <intent-filter>
+                <action android:name="com.chen.service.getcountservice" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.chen.broadcast_receiver.SpyA"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="B_SEND" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.chen.broadcast_receiver.SpyB"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="A_SEND" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.chen.broadcast_receiver.Jan"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="A_SEND" />
+                <action android:name="B_SEND" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.chen.learn.reflex_mechanism.controller.ActionReceiver" >
+            <intent-filter>
+                <action android:name="com.chen.reflection" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="com.chen.fifth.test.LogContentProvider"
+            android:authorities="com.nineteen.myandroid.LogContentProvider"
+            android:exported="true"
+            android:permission="com.nineteen.myandroid.ACCESS_STUDENT" />
+    </application>
+
+</manifest>

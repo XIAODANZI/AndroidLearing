@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="main_classes">
+
+        <!-- 一个item对应一个 string_array中item -->
+        <item>com.chen.test.layout.TestLinearLayout</item>
+        <item>com.chen.test.layout.TestFrameLayout</item>
+        <item>com.chen.test.layout.TestRelativeLayout</item>
+        <item>com.chen.test.layout.TestGridLayout</item>
+        <item>com.chen.test.layout.TestTableLayout</item>
+        <item>com.chen.test.textview.TestTextView</item>
+        <item>com.chen.listenandcustomview.TestListener</item>
+        <item>com.chen.test.textview.TextEditText</item>
+        <item>com.chen.test.textview.TestImageView</item>
+        <item>com.chen.test.textview.Test_RadioGroup_CheckBox</item>
+        <item>com.chen.test.textview.TestProgressBar</item>
+        <item>com.chen.adapterview.TestListView</item>
+        <item>com.chen.adapterview.TestSimpleadapter</item>
+        <item>com.chen.adapterview.TestMyBaseAdapter</item>
+        <item>com.chen.test.textview.TestAutoCompleteTextView</item>
+        <item>com.chen.adapterview.TestSpinner</item>
+        <item>com.chen.test.textview.TestGridView</item>
+        <item>com.chen.test.textview.TestGallery</item>
+        <item>com.chen.dialog.TestDialog</item>
+        <item>com.chen.notificationandmenu.TestNotification</item>
+        <item>com.chen.activity.TestActivity</item>
+        <item>com.chen.intent.TestIntent</item>
+        <item>com.chen.fragment.FragmentAsView</item>
+        <item>com.chen.fragment.FragmentLayout</item>
+        <item>com.chen.fragment.QQMain</item>
+        <item>com.chen.viewpager.TestViewPagerLearning</item>
+        <item>com.chen.viewpager.TestVerticalViewPager</item>
+        <item>com.chen.viewpager.TestViewPager</item>
+        <item>com.chen.animation.TestAnimation</item>
+        <item>com.chen.animator.TestAnimator</item>
+        <item>com.chen.touchevent.TestTouchEvent</item>
+        <item>com.chen.canvas.TestMyClock</item>
+        <item>null</item>
+        <item>com.chen.datasave.TestDataSave</item>
+        <item>com.chen.database.TestSqliteDatabase</item>
+        <item>com.chen.database.TestContentProvider</item>
+        <item>com.chen.service.TestService</item>
+        <item>com.chen.service.TestBindService</item>
+        <item>com.chen.broadcast_receiver.TestBroadcastReceiver</item>
+        <item>com.chen.broadcast_receiver.TestAcvtivity</item>
+        <item>com.chen.webview.TestWebViewMain</item>
+        <item>com.chen.fifth.test.MainActivity_Home</item>
+        <item>com.chen.json.GetProjects</item>
+        <item>com.chen.network.TestNetwork</item>
+        <item>com.chen.network.TestAsyncTask</item>
+        <item>com.chen.network.TestNetworkBitmap</item>
+        <item>com.chen.learn.bar_code.controller.CaptureActivity</item>
+        <item>com.chen.learn.reflex_mechanism.controller.ReflexMechanismTestActivity</item>
+    </string-array>
+
+</resources>

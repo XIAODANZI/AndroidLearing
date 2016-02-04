@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="4000"
+    android:interpolator="@android:anim/linear_interpolator"
+    android:repeatCount="2"
+    android:repeatMode="reverse"
+    android:valueFrom="1.0"
+    android:valueTo="0.1"
+    android:valueType="floatType" >
+
+</objectAnimator><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/animator/scale_xy.xml -->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- 设置圆角 -->
+   <corners android:radius="10dip" />
+
+    <!-- 设置内容到容器的距离 -->
+    <padding
+        android:bottom="5dip"
+        android:left="5dip"
+        android:right="5dip"
+        android:top="5dip" />
+
+    <!-- 设置填充色 -->
+    <solid android:color="@color/common_grey_background" />
+
+    <stroke
+        android:width="0.5dip"
+        android:color="@color/black" />
+
+</shape><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/drawable/btn_press.xml -->

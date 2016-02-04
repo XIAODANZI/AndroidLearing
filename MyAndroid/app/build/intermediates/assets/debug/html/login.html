@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN""http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<head>
+<title>文档标题</title>
+
+</head>
+
+<script>
+<!-- 本地网页js脚本 带参方法>
+function insert(string){
+    document.getElementById("content").innerHTML += string + "<br/>";//在content标签段落加入新行
+}
+
+function showAndroidToast() 
+{
+    var name = document.getElementById("username").value;//获取输入框的内容
+    window.t_demo.showToast(name);//将输入内容传给android提示  demo是绑定对象别名
+}
+
+function showAndroidDialog() 
+{
+    var name = document.getElementById("username").value;//获取输入框的内容
+	window.d_demo.showDialog(name);//将输入内容传给android提示  demo是绑定对象别名
+}
+</script>
+
+<body>
+    <div>  
+        <p>输入用户账号：</p>
+        <input id="username" style="height:30px;width:200px"/> 
+    </div>
+    <br>
+    <div> 
+         <input type="submit" value="提交" style="height:51px;width:200px" onclick="showAndroidDialog()"/>
+    </div>
+    <p id="content"></p>
+
+</body>
+
+</html>

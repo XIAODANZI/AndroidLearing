@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="5" >
+
+    <Button android:text="@string/num_1" />
+
+    <Button android:text="@string/num_2" />
+
+    <Button android:text="@string/num_3" />
+
+    <Button android:text="@string/num_plus" />
+
+    <Button android:text="@string/num_4" />
+
+    <Button android:text="@string/num_5" />
+
+    <Button android:text="@string/num_6" />
+
+    <Button android:text="@string/num_minus" />
+
+    <Button android:text="@string/num_7" />
+
+    <Button android:text="@string/num_8" />
+
+    <Button android:text="@string/num_9" />
+
+    <Button android:text="@string/num_multi" />
+
+    <Button
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill"
+        android:text="@string/num_0" />
+
+    <Button android:text="@string/num_point" />
+
+    <Button
+        android:layout_gravity="fill"
+        android:layout_rowSpan="2"
+        android:text="@string/num_div" />
+
+    <Button
+        android:layout_columnSpan="3"
+        android:layout_gravity="fill"
+        android:layout_rowSpan="1"
+        android:text="@string/num_equal" />
+
+</GridLayout>

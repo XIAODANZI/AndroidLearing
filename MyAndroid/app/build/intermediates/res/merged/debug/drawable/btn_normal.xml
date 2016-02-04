@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- 设置圆角 -->
+    <corners android:radius="10dip" />
+    <!-- 设置内容到容器的距离 -->
+    <padding
+        android:bottom="5dip"
+        android:left="5dip"
+        android:right="5dip"
+        android:top="5dip" />
+
+    <solid android:color="@color/white" />
+
+    <!--
+    设置渐变 
+    <gradient
+        android:centerColor="@color/green"
+        android:endColor="@color/black"
+        android:startColor="@color/blue_normal"
+        android:type="linear" />
+    -->
+
+
+    <!-- 边界 -->
+    <stroke
+        android:width="0.5dip"
+        android:color="@color/divider_color" />
+
+</shape><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/drawable/btn_normal.xml -->

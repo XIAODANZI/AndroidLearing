@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\learn\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-362768f79a08d08a27c07a2e92f76cb7e9fbc143.jar" />
+    </item>
+    <item
+        jar="E:\learn\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-db225c1e0e884b1efd0b652f7b2dc93fb2e59666.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-160e21806fe4fcbe2b20c34d1bbde421f69a17ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\gson-2.3-a3d3cdd10d85735a8d7a5cfab1077c376e3d9a30.jar" />
+    </item>
+    <item
+        jar="E:\learn\MyAndroid\app\libs\zxing.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6fe22c135f19470d05b0816d5996c442ef67da3f">
+        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\zxing-2969311e37ab5c838ad4ef796e49cd822c0cc9e7.jar" />
+    </item>
+    <item
+        jar="E:\learn\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-fc950432985bb7e4cc05e5ee7f42d7d5d3b5aa74.jar" />
+    </item>
+
+</items>

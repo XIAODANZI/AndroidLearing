@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="rbtn_0" type="id"/>
+    <item name="rbtn_1" type="id"/>
+    <item name="rbtn_ad1" type="id"/>
+    <item name="rbtn_ad2" type="id"/>
+    <item name="rbtn_ad3" type="id"/>
+    <item name="rbtn_ad4" type="id"/>
+    <!-- id for bitmap util -->
+    <item name="bmd__image_downloader" type="id"/>
+    <!-- id for bitmap util -->
+
+    <!-- 二维码-->
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+
+</resources>
