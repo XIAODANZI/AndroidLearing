@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\payment-weixin.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="803813b6bccb792b383d54a2a5fd7dff4569fdab">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\payment-weixin-3d398f43c1fcc3c50f1ea167cb5a88d798fbac04.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\tx_wx.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\tx_wx-df02172648d7f958cbacc83a578ba46ebcce41d5.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\ui.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8141d88212ae4fd186b6cbfbfc23d050ad61d673">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\ui-fb8fa4bfe40dff2f39ed1c6734c93e68ace939c0.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\Msc.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a11eb2b2631d3538589d79e5d85e10d4dc216480">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\Msc-f0175144fe43716e0e767d45c75d1dbcded92c2f.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\share-sina.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a01293be0e13b8e460922ee9a1ec07a6c16f3df9">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\share-sina-3b9bf4b4614b3298b2e5bfafa4e415c500f5cb14.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\payment.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="71214b5b569eb36453cbd9d8041dd0551d779185">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\payment-3715df304e676f948959e8c259337c317b71338d.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\gallery.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0d36dcb0c0750525e241dd643fb962f18d45c728">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\gallery-f07cd2afa23aeeea2c2eda95468b5cc6afdd3f5b.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\oauth-qq.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93582449a8b86a0fc85fc3e902df3660104baaf9">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\oauth-qq-2022e6d48aaa66eb10688afddf85a168c8a3859b.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\open_sdk_r5043_lite.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f213f03dfe8868d0b24898234f6eefb67015a4a">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\open_sdk_r5043_lite-16e2b93c20a8eedd27c47f15f3fbf51e29b50bcd.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\geolocation.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92ca51789a210a1f0c5eecc2db58d0a2c613ebff">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\geolocation-8c51acb5a6cf54e1f62c45e26454ee7589fbf6b0.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\alipaysecsdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7413c074c9edf523050267b93d0875151dc4b644">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\alipaysecsdk-a2c7caae9a412d6cde533fc5a6da7fa8e27446ee.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\universal-image-loader-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f667a2f4f27542fe11a6781f5f7ac572d27afcec">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.0-1e49999e7efbfb6ebe38903050d84f6b91c38640.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-52a822e50f36ff44e6ca9f7b248823cfecc50884.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\payment-alipay.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9351931e50b3e44578c55b9a08eafec8f7d6aa7c">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\payment-alipay-6f51ce523f4c077dd081cb3f61b30b4085f321c2.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\geolocation-system.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6090938ae3c28927958feaa30ebdc912aeb60d65">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\geolocation-system-48e3843a98acda712082bbc22b3135ae83b18e42.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\contacts.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="312e353e4d864b8605a0c70f097dea5b2edf43b0">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\contacts-164df0da788fbafdfcdc3db5c77216b263fbc24a.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\nativeObj.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ad3a14fd32c04e248a2e87387b1d5fda22de84da">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\nativeObj-532ae861896a99afb14e41b686b4da50180e2698.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\geolocation-amap.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddf91837cb1b696c1c9fb2b981be993f0d5a83e7">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\geolocation-amap-573a2de10425d933bba81b5a68c8287c9f213864.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\share-tencent.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8599c47de9e2ff12bce7a9d1ef25888b898c798f">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\share-tencent-b3cbade43a40a800b109c70cd9ec7480fb435d77.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\aps.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93b03e758e2ca3ef8ffeb93fd0e2bfef3ffd72ad">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\aps-d76da1abe5308dd820aef959231a69df545632f2.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\oauth-weixin.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="750e30025821cfae4fc9572e8d3d8e66bd2a8c86">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\oauth-weixin-ebeefbcc265ad6156ed76b39fe8c297cde632ecd.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\statistics-umeng.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="da8c708a79973a37ad067007132dfeb76f4fc7b0">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\statistics-umeng-fcaed30d5ffe0efefc14b78ec381f92ff71f0ac4.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\navigatorui.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2b998807a86a68888943ad0e6fe5ab7ecbe0ae57">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\navigatorui-5c176f42b76a54691833238b49ea50c513a7a383.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\oauth.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="10205f770cf24ad4a87fdf5824f2cf46c113cbe8">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\oauth-992975a05dac95932781a6271e5905f4ce19d13d.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\invocation.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="828e73696f9f50eebdca02714e893a5603cc62b2">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\invocation-9cda78258470ac9763741ba22c6689aabe25bbb4.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\file.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="22e47e298e1362994067c29b3111fa8f0127ec7d">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\file-2b8da3733a9fe3694b152b56c5387db5eacacd67.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\GetuiExt-2.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7825bfa9135d693e2046eab96fd94e724e0f9eda">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\GetuiExt-2.0.3-043eb2d296686ceb8cb194b114eb5d0bad9606d3.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\aps-igexin.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="801878ee3f24fbc98871ce7489b2ac7942de7ad4">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\aps-igexin-55e7aba89b1f20686474687f01db921d99226644.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\GetuiSdk2.5.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="662a392693d1c2b781c336cd4131883ec829884c">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\GetuiSdk2.5.0.0-3e8e91dc5998c852e70e3d573c2b2dd832284e4e.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\messaging.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40fb1ba1ce8210afa600b2d7a2ef82fcf02fe826">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\messaging-06a3a3066f9556503289fd9c93b310813a3b70d6.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\oauth-sina.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd2ab07c823ed8616af514aa72ddebe72cac2391">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\oauth-sina-23439646ea625b9da90420e54c36d50bae2b9f67.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\share-weixin.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8f50effd839d07c04a0ea92008b6fbc3bb216953">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\share-weixin-1698eca5a55a09e72f823fd07aae9bfb8e77e34f.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\json_simple-1.1-589388db6ce55bc8f97692483b248e31e937bca4.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\camera.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0dc9add04dc76aa0c05d31a33e61a23b450e2c30">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\camera-e11081f250282c5a33269f20ec07761ab8e80ba7.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\tx_weibo_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="33921321a220f3927929217aeed32befede21502">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\tx_weibo_sdk-ad1269d32ae379f186d7aeade4fc045e95252ab0.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\alipayutdid.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\alipayutdid-e56abd03b7be77fd3517db8baa6b800d6b4bdbb0.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-73b9883bfda7e9a6ae205d0e99c174e73ba72aaa.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cc5fb6c6a98c9ba56e774cb20fa9b48bc6f75f3">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android-9c8ea15dd4012dd9d192ab9a4738588a735e5dc2.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\share-qq.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4f31c113ecc09ace1ddfd938e717bc53cc44f750">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\share-qq-29b6445dbed982f0530eb93e6ab864073339db18.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\tx_weibo_sdk_component.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="17d672bf657b4d848d1b33782496fc0dd972072c">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\tx_weibo_sdk_component-61c4574ececa19c4dd52853cd690a473afe1aa7f.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\map-baidu.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ad95c855d693fc92510ae1e6c77de8c11115f14a">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\map-baidu-839190f6600ca9165f4b5012b67f34609f478b99.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\alipaysdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b40481f01537a329936ce54ee2fe15ef2537f010">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\alipaysdk-8f6bb8348fb2eff7b26d61a050fffef41aeb9f43.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\sensor.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bfd30ab870dec03716984729093cce0c50232bca">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\sensor-e67ee8a4b6bc736a59a48c2259b41e13465ee7e0.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\xhr.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3646edd49c2f7dd899e926abb2450d52331a89b2">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\xhr-dfbfea287d4d861f25265d744dfd9640586fb909.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\device.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93764c5f2dfdf8d3faf6f246daaca6baa5c9e8e5">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\device-e54341c6f02cbf6986b837f78f09467297b379d3.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\downloader.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b18ffd0874d02650ee3abd8bc12cff11f0cf8b2">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\downloader-c1bbcb801baa4d3b776b7c6461373d4d6ceaea0d.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\uploader.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3dc918134be3a93c0e26e08db866fc0b66ee3daa">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\uploader-bbc7c8512e35ff9a7bc42f71d2e093b9222af8f7.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\nopermission.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f33298267056acc017861c327d03298c787ce80f">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\nopermission-5e4c0529ab337b32d13da60808230f09a4ab799a.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\aps-dhPush.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d44bd8563e493d22baea0e48a275a64ea3f3a07">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\aps-dhPush-968717b8f106890d1ee586d2b40a02fc852ae2f3.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\barcode.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="857fb9188d541f1d56ff7ddc8223cb14f84fcf14">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\barcode-a75ef2cc336db8f5264e019dcf43503c4b34d31c.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\weibosdkcore.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="94471fb40a1a2175b5993cdf0af0b8e59ed29fb3">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\weibosdkcore-6d3a2f96a05c8dbbccb0180fb348e2aeeb616438.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\speech.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2e7017aa385dba74faf0bfecd433be3e3484d2e0">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\speech-d9773edeaed4d74cbdde58dd2e2babcb0fdd64c2.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\map-amap.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d72c3354831782112bc79857c41716e9da85897e">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\map-amap-a91c1216d05f0ebf139e1ae82d1502c9d9161a9e.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\weibosdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a72897dea0c643c263fe8f90ea2d2c414f21ad8b">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\weibosdk-e61d4089df0cffda25fc2e512ec4dff11b9e980b.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\umeng-analytics-v5.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b2705cbb19f52bb4d242458163a98d9e889c1292">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.6.1-de310722534377685d1d732433a77041fa6b51ea.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\share.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="257023df4b7ed079eae45eaed5317ede870bd2df">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\share-011313d4679cae724b0850948951e6449c5d0d42.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\pdr.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fe5998770139b3f2c672b7be6ddf1e19ce34e831">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\pdr-dc8635b6335ef4bdf80e88f49a2cb7454a78465d.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\tx_weibo_sdk-httpclient-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d6364bcc1b2b2aa69d008602d36a700453648560">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\tx_weibo_sdk-httpclient-3.0.1-980e760208a89521a9c68b7a2d01091aaedd64f8.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\nativeui.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="efbbfb9e66fd590d0a27ee29e84fe3da6d65ba87">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\nativeui-dc3ec3d79f14b2fb977ff70cc2c33f0fa7fb7d57.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\speech_ifly.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b4bbf67e8308851ff45b78971c65b15639a99189">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\speech_ifly-cb2ca36d04a75816a8194e0774e921fae2113c80.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\audio.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6f18d6a8a59eeebc9799af58029d3d7c990d7d36">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\audio-ea53f751d0dccbd6958f8f60778928b4bb80d06c.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\HBuilder-Integrate\app\libs\geolocation-baidu.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b9cfc5f6d1b311e35e3b424d4c95c9ab896152d">
+        <dex dex="E:\chen\AndroidLearing\HBuilder-Integrate\app\build\intermediates\pre-dexed\debug\geolocation-baidu-4e5e7d8c5479dea76bbc44bf18b7e041cee24758.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:shape="rectangle">  
+    <corners android:radius="5dip" >
+    </corners>
+
+    <solid android:color="#CC000000" >
+    </solid>
+
+</shape><!-- From: file:/E:/chen/AndroidLearing/HBuilder-Hello/app/src/main/res/drawable/longding_bg.xml -->

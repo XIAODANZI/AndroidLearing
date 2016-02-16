@@ -2,14 +2,82 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.codera.myfirsthybridapp">
 
+    <!-- HBuilder Runtime 基础权限   begin -->
+    <!-- 联网 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 使用存储卡 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- Html5Plus runtime基础权限   end -->
+
+
+    <!-- Audio begin -->
+    <!-- 访问录音设备 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!-- 修改播放声音通道 -->
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <!-- Audio end -->
+
+
+    <!-- Camera  begin -->
+    <!-- 调用摄像头 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <!-- Camera  end -->
+
+
+    <!-- Contacts  begin -->
+    <!-- 访问联系人 -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <!-- Contacts  end -->
+
+
+    <!-- Device begin -->
+    <!-- 屏幕保持唤醒 不锁屏  plus.device.setWakelock();plus.device.isWakelock(); -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- 震动 权限 plus.device.vibrate(); -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <!-- 拨打电话 plus.device.dail(); -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- 访问网络状态 plus.networkinfo.* -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 读写手机状态和身份 plus.devices.* -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- Device end -->
+
+
+    <!-- Messaging begin -->
+    <!-- 拨打电话权限 -->
+    <!-- 发短信权限 -->
+    <!-- 读/写短/彩信箱权限 -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <!-- Messaging end -->
+
+
+    <!-- Invocation - JSB begin -->
+    <!-- 调用系统API，通过Native.js调用系统API需要的权限添加到这里 -->
+    <!-- 安装快捷方式 -->
+    <!-- 卸载快捷方式 -->
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
+    <!-- Invocation - JSB end -->
+
     <application
         android:allowBackup="true"
+        android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity
-            android:name=".MainActivity"
+            android:name=".activity.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -19,15 +87,18 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".activity.DetailActivity"
+            android:screenOrientation="portrait" />
+
         <!-- hybrid-->
 
         <!-- 查看图片-->
         <activity
             android:name="io.dcloud.imagepick.CustomGalleryActivity"
-            android:configChanges="orientation|keyboardHidden|navigation" >
+            android:configChanges="orientation|keyboardHidden|navigation">
             <intent-filter>
-                <category android:name="android.intent.category.DEFAULT" >
-                </category>
+                <category android:name="android.intent.category.DEFAULT" />
                 <action android:name="io.dcloud.ACTION_MULTIPLE_PICK" />
             </intent-filter>
         </activity>
@@ -42,7 +113,7 @@
             android:launchMode="singleTask"
             android:screenOrientation="user"
             android:theme="@style/DCloudTheme"
-            android:windowSoftInputMode="adjustResize"/>
+            android:windowSoftInputMode="adjustResize" />
 
         <service
             android:name="io.dcloud.common.adapter.io.MiniServerService"

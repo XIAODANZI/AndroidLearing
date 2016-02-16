@@ -17,6 +17,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    sourceSets { main { assets.srcDirs = ['src/main/assets', 'src/main/assets/'] } }
 }
 
 dependencies {
@@ -28,4 +29,6 @@ dependencies {
     compile files('libs/pdr.jar')
     compile files('libs/ui.jar')
     compile files('libs/gallery.jar')
+    compile files('libs/nativeui.jar')
+    compile files('libs/invocation.jar')
 }
