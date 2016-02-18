@@ -10,6 +10,7 @@
     <script type="text/javascript" src="./js/common.js"></script>
     <script type="text/javascript" src="./js/test.js"></script>
     <script type="text/javascript" src="js/getFirstContactInfo.js"></script>
+    <script type="text/javascript" src="js/StartActivityForResult.js"></script>
     <script type="text/javascript">
 
                 /**
@@ -42,6 +43,44 @@
                          <!--function( result ) {alert( result[0]  + "_" + result[1]  + "_" + result[2]  + "_" + result[3] );},function(result){alert(result)});-->
                 }
                 
+                function getContactsContract(){
+                    var REQUESTCODE = 1000;
+                    main = plus.android.runtimeMainActivity();
+                    // plus.android.importClass 参数：要导入的Java类名或者示例对象；
+                    // 导入类对象后，就可以通过.操作符直接调用对象的方法
+                    var Intent = plus.android.importClass('android.content.Intent');
+                    var ContactsContract = plus.android.importClass('android.provider.ContactsContract');
+                    var intent = new Intent(Intent.ACTION_PICK, ContactsContract.Contacts.CONTENT_URI);
+                    main.onActivityResult = function(requestCode, resultCode, data) {
+                        if (REQUESTCODE == requestCode) {
+                            var phoneNumber = null;
+                            var resultString = "";
+                            var context = main;
+                            var contactData = data.getData();
+                            var resolver = context.getContentResolver();
+                            plus.android.importClass(resolver);
+                            // 导入类对象后，就可以通过.操作符直接调用对象的方法
+                            var cursor = resolver.query(contactData, null, null, null, null);
+                            plus.android.importClass(cursor);
+                            cursor.moveToFirst();
+                            var s_ret;
+                            var givenName = cursor.getString(cursor.getColumnIndex(ContactsContract.Contacts.DISPLAY_NAME));
+                            s_ret = givenName;
+                            var contactId = cursor.getString(cursor.getColumnIndex(ContactsContract.Contacts._ID));
+                            var pCursor = resolver.query(ContactsContract.CommonDataKinds.Phone.CONTENT_URI,
+                            null, ContactsContract.CommonDataKinds.Phone.CONTACT_ID + " = " + contactId,
+                            null, null);
+                            while (pCursor.moveToNext()) {
+                                phoneNumber =   pCursor.getString( pCursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.NUMBER));
+                                s_ret += '\n' + phoneNumber;
+                            }
+                            alert(s_ret);
+                            cursor.close();
+                            pCursor.close();
+                        }
+                    };
+                    main.startActivityForResult(intent, REQUESTCODE);
+                }
                 
                 function pluginGetFirstContactInfo(){
                     plus.FirstContact.getFirstContactInfo(
@@ -87,6 +126,7 @@
     <!--<div class="button" onclick="njsAlertForAndroid()">PluginTestFunction()</div>-->
     <div class="button" onclick="pluginShow()">离开此页</div>
     <div class="button" onclick="pluginGetFirstContactInfo()">获取到第一个联系人的信息</div>
+    <div class="button" onclick="getContactsContract()">获取联系人电话号码</div>
     <div class="button" onclick="pluginShowArrayArgu()">PluginTestFunctionArrayArgu()</div>
     <div class="button" onclick="pluginGetString()">PluginTestFunctionSync()</div>
     <div class="button" onclick="pluginGetStringArrayArgu()">PluginTestFunctionSyncArrayArgu()</div>
