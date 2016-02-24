@@ -248,7 +248,7 @@ public class LeafLoadingView extends View {
     }
 
     /**
-     * 绘制叶子
+     * TODO 绘制叶子
      *
      * @param canvas 画布
      */
@@ -286,7 +286,7 @@ public class LeafLoadingView extends View {
     }
 
     /**
-     * 绘制叶子－－根据叶子的类型和当前时间得出叶子的（x，y）
+     * TODO 绘制叶子－－根据叶子的类型和当前时间得出叶子的（x，y）
      *
      * @param leaf        Leaf Object
      * @param currentTime 当前系统时间
@@ -466,7 +466,7 @@ public class LeafLoadingView extends View {
          * 旋转方向，0：顺时针；1：逆时针
          */
         int rotateDirection;
-        /**
+        /**z
          * 起始时间(ms)
          */
         long startTime;

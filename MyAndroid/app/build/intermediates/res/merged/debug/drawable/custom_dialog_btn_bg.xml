@@ -12,4 +12,4 @@
     <item android:state_pressed="true" android:drawable="@drawable/custom_dialog_button_pressed" />
     <!-- 普通状态的颜色 -->
     <item android:drawable="@drawable/custom_dialog_button_normal" />
-</selector><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/drawable/custom_dialog_btn_bg.xml -->
+</selector><!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/drawable/custom_dialog_btn_bg.xml -->

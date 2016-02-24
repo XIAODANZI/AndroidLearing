@@ -47,4 +47,4 @@
         android:layout_rowSpan="1"
         android:text="@string/num_equal" />
 
-</GridLayout><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/layout/test_gridlayout.xml -->
+</GridLayout><!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/layout/test_gridlayout.xml -->

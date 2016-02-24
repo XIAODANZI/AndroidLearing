@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: E:\\learn\\MyAndroid\\app\\src\\main\\aidl\\com\\chen\\service\\MyAIDL.aidl
+ * Original file: E:\\chen\\AndroidLearing\\MyAndroid\\app\\src\\main\\aidl\\com\\chen\\service\\MyAIDL.aidl
  */
 package com.chen.service;
 public interface MyAIDL extends android.os.IInterface

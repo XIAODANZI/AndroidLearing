@@ -52,6 +52,7 @@
         <item>com.chen.network.TestNetworkBitmap</item>
         <item>com.chen.learn.bar_code.controller.CaptureActivity</item>
         <item>com.chen.learn.reflex_mechanism.controller.ReflexMechanismTestActivity</item>
+        <item>com.dan.CustomActivity</item>
     </string-array>
 
 </resources>

@@ -32,4 +32,4 @@
         android:padding="2dip"
         android:text="@string/scaleXY" />
 
-</RelativeLayout><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/layout/animator_scale.xml -->
+</RelativeLayout><!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/layout/animator_scale.xml -->

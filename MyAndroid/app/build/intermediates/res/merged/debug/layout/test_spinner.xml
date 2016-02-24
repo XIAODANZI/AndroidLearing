@@ -17,4 +17,4 @@
         android:prompt="@string/app_name"
         android:spinnerMode="dropdown" />
 
-</LinearLayout><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/layout/test_spinner.xml -->
+</LinearLayout><!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/layout/test_spinner.xml -->

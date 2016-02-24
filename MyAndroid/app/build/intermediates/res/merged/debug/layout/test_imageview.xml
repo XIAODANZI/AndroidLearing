@@ -17,4 +17,4 @@
         android:background="@drawable/fengche"
         android:contentDescription="@string/app_name" />
 
-</RelativeLayout><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/layout/test_imageview.xml -->
+</RelativeLayout><!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/layout/test_imageview.xml -->

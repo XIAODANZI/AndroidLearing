@@ -84,4 +84,4 @@
         android:progressDrawable="@drawable/ratingbar_bg2"
         android:stepSize="0.5" />
 
-</LinearLayout><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/layout/test_progressbar.xml -->
+</LinearLayout><!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/layout/test_progressbar.xml -->

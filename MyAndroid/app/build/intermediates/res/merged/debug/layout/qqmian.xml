@@ -17,4 +17,4 @@
         android:layout_above="@id/qqBottom" >
     </FrameLayout>
 
-</RelativeLayout><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/layout/qqmian.xml -->
+</RelativeLayout><!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/layout/qqmian.xml -->

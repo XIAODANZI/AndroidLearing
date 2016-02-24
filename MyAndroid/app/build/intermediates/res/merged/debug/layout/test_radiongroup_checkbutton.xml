@@ -97,4 +97,4 @@
         android:button="@drawable/checkbuttonbg"
         android:text="@string/hobby_2" />
 
-</LinearLayout><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/layout/test_radiongroup_checkbutton.xml -->
+</LinearLayout><!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/layout/test_radiongroup_checkbutton.xml -->

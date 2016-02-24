@@ -56,4 +56,4 @@
         android:listSelector="@drawable/list_item_selector" >
     </ListView>
 
-</LinearLayout><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/layout/test_sqlite.xml -->
+</LinearLayout><!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/layout/test_sqlite.xml -->

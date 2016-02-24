@@ -6,4 +6,4 @@
     <item android:drawable="@drawable/list_item_pressed" android:state_selected="true"/>
     <item android:drawable="@drawable/list_item_normal"/>
 
-</selector><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/drawable/list_item_selector.xml -->
+</selector><!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/drawable/list_item_selector.xml -->

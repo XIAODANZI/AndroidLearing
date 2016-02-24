@@ -31,4 +31,4 @@
         android:padding="2dip"
         android:text="@string/onDestroy" />
 
-</LinearLayout><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/layout/test_activity_lifecycle.xml -->
+</LinearLayout><!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/layout/test_activity_lifecycle.xml -->

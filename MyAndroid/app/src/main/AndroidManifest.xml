@@ -216,6 +216,15 @@
             android:name="com.chen.learn.reflex_mechanism.controller.ReflexMechanismTestActivity"
             android:screenOrientation="portrait" />
 
+        <activity android:name="com.dan.CustomActivity" />
+        <!-- 樱花飘落动画-->
+        <activity android:name="com.dan.controller.SakuraActivity" />
+
+        <!-- recycleView的使用-->
+        <activity
+            android:name="com.dan.controller.RecycleViewActivity"
+            android:theme="@style/RecyleViewTheme" />
+
 
         <!-- 服务-->
         <service android:name="com.chen.service.Myservice" />

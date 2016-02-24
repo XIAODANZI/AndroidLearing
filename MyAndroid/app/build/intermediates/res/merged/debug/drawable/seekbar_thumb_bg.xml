@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/seekbar_thumb_s" android:state_pressed="true"/>
     <item android:drawable="@drawable/seekbar_thumb_n" android:state_pressed="false"/>
 
-</selector><!-- From: file:/E:/learn/MyAndroid/app/src/main/res/drawable/seekbar_thumb_bg.xml -->
+</selector><!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/drawable/seekbar_thumb_bg.xml -->

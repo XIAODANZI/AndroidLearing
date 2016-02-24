@@ -1,633 +1,650 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:2:1-280:12
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:2:1-289:12
 	xmlns:android
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:2:11-69
 	package
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml
-		INJECTED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:5:5-30
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:5:5-30
 	android:versionCode
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml
-		INJECTED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml
 permission#com.nineteen.myandroid.ACCESS_STUDENT
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:10:5-72
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:10:5-72
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:10:17-69
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:10:17-69
 permission#com.nineteen.myandroid.GETCOUNTSERVICE
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:11:5-73
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:11:5-73
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:11:17-70
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:11:17-70
 uses-permission#android.permission.INTERNET
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:13:5-67
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:13:5-67
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:13:22-64
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:13:22-64
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:14:5-81
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:14:5-81
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:14:22-78
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:15:5-79
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:15:22-76
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:15:22-76
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:17:5-84
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:17:5-84
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:17:22-81
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:17:22-81
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:19:5-81
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:19:5-81
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:19:22-78
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:19:22-78
 uses-sdk
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:appcompat-v7:23.1.1] E:\learn\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] E:\learn\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:24:9-38
-		INJECTED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml
-		INJECTED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:24:9-38
+		INJECTED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:23:9-35
-		INJECTED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml
-		INJECTED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:23:9-35
+		INJECTED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.CAMERA
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:30:5-65
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:30:5-65
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:30:22-62
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:30:22-62
 uses-permission#android.permission.FLASHLIGHT
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:31:5-69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:31:5-69
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:31:22-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:31:22-66
 uses-feature#android.hardware.camera
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:33:5-60
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:33:5-60
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:33:19-57
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:33:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:34:5-70
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:34:5-70
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:34:19-67
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:34:19-67
 uses-permission#android.permission.VIBRATE
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:36:5-66
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:36:5-66
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:36:22-63
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:36:22-63
 uses-permission#android.permission.WAKE_LOCK
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:37:5-68
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:37:5-68
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:37:22-65
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:37:22-65
 application
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:39:5-278:19
-MERGED from [com.android.support:appcompat-v7:23.1.1] E:\learn\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] E:\learn\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:39:5-287:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:43:9-41
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:43:9-41
 	android:allowBackup
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:41:9-35
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:41:9-35
 	android:icon
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:42:9-45
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:42:9-45
 	android:theme
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:44:9-40
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:44:9-40
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:40:9-77
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:40:9-77
 activity#com.nineteen.myandroid.MainActivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:45:9-53:20
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:45:9-53:20
 	android:label
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:47:13-45
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:47:13-45
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:46:13-63
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:46:13-63
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:48:13-52:29
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:48:13-52:29
 action#android.intent.action.MAIN
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:49:17-69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:49:17-69
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:49:25-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:49:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:51:17-77
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:51:17-77
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:51:27-74
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:51:27-74
 activity#com.chen.test.layout.TestLinearLayout
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:54:9-56:50
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:54:9-56:50
 	android:label
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:56:13-47
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:56:13-47
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:55:13-65
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:55:13-65
 activity#com.chen.test.layout.TestFrameLayout
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:57:9-59:55
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:57:9-59:55
 	android:label
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:59:13-52
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:59:13-52
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:58:13-64
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:58:13-64
 activity#com.chen.test.layout.TestRelativeLayout
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:60:9-62:58
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:60:9-62:58
 	android:label
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:62:13-55
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:62:13-55
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:61:13-67
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:61:13-67
 activity#com.chen.test.layout.TestGridLayout
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:63:9-65:54
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:63:9-65:54
 	android:label
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:65:13-51
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:65:13-51
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:64:13-63
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:64:13-63
 activity#com.chen.test.layout.TestTableLayout
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:66:9-68:55
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:66:9-68:55
 	android:label
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:68:13-52
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:68:13-52
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:67:13-64
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:67:13-64
 activity#com.chen.test.textview.TestTextView
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:69:9-71:48
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:69:9-71:48
 	android:label
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:71:13-45
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:71:13-45
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:70:13-63
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:70:13-63
 activity#com.chen.listenandcustomview.TestListener
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:72:9-74:48
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:72:9-74:48
 	android:label
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:74:13-45
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:74:13-45
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:73:13-69
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:73:13-69
 activity#com.chen.test.textview.TextEditText
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:75:9-77:69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:75:9-77:69
 	android:theme
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:77:13-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:77:13-66
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:76:13-63
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:76:13-63
 activity#com.chen.test.textview.TestImageView
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:78:9-73
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:78:9-73
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:78:19-70
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:78:19-70
 activity#com.chen.test.textview.Test_RadioGroup_CheckBox
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:79:9-84
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:79:9-84
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:79:19-81
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:79:19-81
 activity#com.chen.test.textview.TestProgressBar
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:80:9-75
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:80:9-75
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:80:19-72
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:80:19-72
 activity#com.chen.adapterview.TestListView
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:81:9-70
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:81:9-70
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:81:19-67
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:81:19-67
 activity#com.chen.adapterview.TestSimpleadapter
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:82:9-75
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:82:9-75
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:82:19-72
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:82:19-72
 activity#com.chen.adapterview.TestMyBaseAdapter
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:83:9-75
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:83:9-75
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:83:19-72
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:83:19-72
 activity#com.chen.test.textview.TestAutoCompleteTextView
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:84:9-84
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:84:9-84
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:84:19-81
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:84:19-81
 activity#com.chen.adapterview.TestSpinner
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:85:9-69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:85:9-69
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:85:19-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:85:19-66
 activity#com.chen.test.textview.TestGridView
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:86:9-72
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:86:9-72
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:86:19-69
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:86:19-69
 activity#com.chen.test.textview.TestGallery
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:87:9-71
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:87:9-71
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:87:19-68
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:87:19-68
 activity#com.chen.dialog.TestDialog
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:88:9-63
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:88:9-63
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:88:19-60
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:88:19-60
 activity#com.chen.dialog.ActivityAsDialog
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:89:9-92:79
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:89:9-92:79
 	android:label
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:91:13-57
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:91:13-57
 	android:theme
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:92:13-76
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:92:13-76
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:90:13-60
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:90:13-60
 activity#com.chen.notificationandmenu.TestNotification
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:93:9-82
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:93:9-82
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:93:19-79
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:93:19-79
 activity#com.chen.activity.TestActivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:94:9-67
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:94:9-67
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:94:19-64
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:94:19-64
 activity#com.chen.activity.TestActvityLifecycle
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:95:9-75
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:95:9-75
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:95:19-72
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:95:19-72
 activity#com.chen.activity.TransparentActivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:96:9-98:75
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:96:9-98:75
 	android:theme
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:98:13-72
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:98:13-72
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:97:13-65
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:97:13-65
 activity#com.chen.activity.FirstActivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:99:9-68
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:99:9-68
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:99:19-65
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:99:19-65
 activity#com.chen.activity.SecondActivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:100:9-69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:100:9-69
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:100:19-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:100:19-66
 activity#com.chen.activity.LaunchMode
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:101:9-65
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:101:9-65
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:101:19-62
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:101:19-62
 activity#com.chen.activity.StandardSelf
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:102:9-104:45
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:102:9-104:45
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:103:13-58
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:103:13-58
 	android:launchMode
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:104:13-42
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:104:13-42
 activity#com.chen.activity.StandardOther
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:105:9-68
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:105:9-68
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:105:19-65
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:105:19-65
 activity#com.chen.activity.SingleTopSelf
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:106:9-108:46
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:106:9-108:46
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:107:13-59
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:107:13-59
 	android:launchMode
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:108:13-43
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:108:13-43
 activity#com.chen.activity.SingleTopOther
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:109:9-69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:109:9-69
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:109:19-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:109:19-66
 activity#com.chen.activity.SingleTaskSelf
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:110:9-120:20
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:110:9-120:20
 	android:label
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:112:13-43
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:112:13-43
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:111:13-60
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:111:13-60
 	android:launchMode
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:113:13-44
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:113:13-44
 intent-filter#ImplicitCall+SingleTaskSelf+android.intent.category.DEFAULT
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:114:13-119:29
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:114:13-119:29
 action#ImplicitCall
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:115:17-55
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:115:17-55
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:115:25-52
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:115:25-52
 category#android.intent.category.DEFAULT
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:117:17-76
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:117:17-76
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:117:27-73
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:117:27-73
 category#SingleTaskSelf
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:118:17-59
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:118:17-59
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:118:27-56
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:118:27-56
 activity#com.chen.activity.SingleTaskOther
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:121:9-129:20
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:121:9-129:20
 	android:label
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:123:13-44
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:123:13-44
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:122:13-61
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:122:13-61
 intent-filter#ImplicitCall+android.intent.category.DEFAULT
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:124:13-128:29
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:124:13-128:29
 activity#com.chen.activity.SingleInstanceSelf
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:130:9-133:51
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:130:9-133:51
 	android:exported
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:132:13-36
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:132:13-36
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:131:13-64
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:131:13-64
 	android:launchMode
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:133:13-48
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:133:13-48
 activity#com.chen.activity.SingleInstanceOther
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:134:9-74
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:134:9-74
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:134:19-71
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:134:19-71
 activity#com.chen.intent.TestIntent
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:135:9-63
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:135:9-63
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:135:19-60
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:135:19-60
 activity#com.chen.fragment.FragmentAsView
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:136:9-69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:136:9-69
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:136:19-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:136:19-66
 activity#com.chen.fragment.FragmentLayout
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:137:9-69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:137:9-69
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:137:19-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:137:19-66
 activity#com.chen.fragment.DetailsActivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:138:9-143:20
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:138:9-143:20
 	android:configChanges
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:140:13-74
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:140:13-74
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:139:13-61
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:139:13-61
 activity#com.chen.fragment.QQMain
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:144:9-61
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:144:9-61
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:144:19-58
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:144:19-58
 activity#com.chen.animation.TestAnimation
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:145:9-69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:145:9-69
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:145:19-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:145:19-66
 activity#com.chen.animation.TestRotateAnimation
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:146:9-75
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:146:9-75
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:146:19-72
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:146:19-72
 activity#com.chen.animation.TestAlphaAnimation
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:147:9-74
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:147:9-74
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:147:19-71
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:147:19-71
 activity#com.chen.animation.TestAnimationSet
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:148:9-72
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:148:9-72
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:148:19-69
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:148:19-69
 activity#com.chen.animation.TestScaleAnimation
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:149:9-74
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:149:9-74
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:149:19-71
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:149:19-71
 activity#com.chen.animation.TestTranslateAnimation
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:150:9-78
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:150:9-78
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:150:19-75
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:150:19-75
 activity#com.chen.animation.TestFrameAnimation
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:151:9-74
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:151:9-74
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:151:19-71
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:151:19-71
 activity#com.chen.animation.controller.LeafLoadingActivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:152:9-86
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:152:9-86
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:152:19-83
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:152:19-83
 activity#com.chen.animator.TestAnimator
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:153:9-67
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:153:9-67
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:153:19-64
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:153:19-64
 activity#com.chen.animator.XMLForAnimator
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:154:9-69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:154:9-69
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:154:19-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:154:19-66
 activity#com.chen.animator.TestObjectAnimator
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:155:9-73
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:155:9-73
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:155:19-70
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:155:19-70
 activity#com.chen.animator.TestAnimatorSet
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:156:9-70
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:156:9-70
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:156:19-67
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:156:19-67
 activity#com.chen.animator.TestViewAnimator
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:157:9-71
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:157:9-71
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:157:19-68
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:157:19-68
 activity#com.chen.animator.TestLayoutTransition
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:158:9-75
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:158:9-75
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:158:19-72
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:158:19-72
 activity#com.chen.animator.TestValueAnimator
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:159:9-72
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:159:9-72
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:159:19-69
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:159:19-69
 activity#com.chen.animator.BouncingBalls
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:160:9-68
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:160:9-68
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:160:19-65
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:160:19-65
 activity#com.chen.touchevent.TestTouchEvent
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:161:9-71
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:161:9-71
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:161:19-68
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:161:19-68
 activity#com.chen.canvas.TestMyClock
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:162:9-64
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:162:9-64
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:162:19-61
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:162:19-61
 activity#com.chen.viewpager.TestViewPager
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:163:9-166:69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:163:9-166:69
 	android:label
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:165:13-47
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:165:13-47
 	android:theme
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:166:13-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:166:13-66
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:164:13-60
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:164:13-60
 activity#com.chen.viewpager.TestViewPagerLearning
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:167:9-77
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:167:9-77
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:167:19-74
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:167:19-74
 activity#com.chen.viewpager.TestVerticalViewPager
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:168:9-77
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:168:9-77
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:168:19-74
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:168:19-74
 activity#com.chen.viewpager.ContentActivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:169:9-171:69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:169:9-171:69
 	android:theme
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:171:13-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:171:13-66
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:170:13-62
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:170:13-62
 activity#com.chen.datasave.TestSharedPreferences
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:172:9-76
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:172:9-76
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:172:19-73
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:172:19-73
 activity#com.chen.datasave.TestFiles
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:173:9-64
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:173:9-64
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:173:19-61
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:173:19-61
 activity#com.chen.datasave.TestDataSave
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:174:9-67
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:174:9-67
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:174:19-64
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:174:19-64
 activity#com.chen.database.TestSqliteDatabase
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:175:9-73
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:175:9-73
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:175:19-70
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:175:19-70
 activity#com.chen.service.TestBindService
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:176:9-69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:176:9-69
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:176:19-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:176:19-66
 activity#com.chen.database.TestContentProvider
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:177:9-74
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:177:9-74
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:177:19-71
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:177:19-71
 activity#com.chen.broadcast_receiver.TestBroadcastReceiver
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:178:9-86
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:178:9-86
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:178:19-83
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:178:19-83
 activity#com.chen.broadcast_receiver.TestAcvtivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:179:9-78
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:179:9-78
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:179:19-75
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:179:19-75
 activity#com.chen.service.TestService
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:180:9-65
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:180:9-65
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:180:19-62
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:180:19-62
 activity#com.chen.webview.TestWebViewMain
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:181:9-69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:181:9-69
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:181:19-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:181:19-66
 activity#com.chen.webview.TestWebHtml
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:182:9-65
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:182:9-65
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:182:19-62
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:182:19-62
 activity#com.chen.webview.TestLocalHtml
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:183:9-67
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:183:9-67
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:183:19-64
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:183:19-64
 activity#com.chen.fifth.test.MainActivity_Home
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:184:9-186:69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:184:9-186:69
 	android:theme
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:186:13-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:186:13-66
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:185:13-65
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:185:13-65
 activity#com.chen.fifth.test.EditLogActivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:187:9-189:69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:187:9-189:69
 	android:theme
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:189:13-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:189:13-66
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:188:13-63
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:188:13-63
 activity#com.chen.fifth.test.CheckLogActivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:190:9-192:69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:190:9-192:69
 	android:theme
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:192:13-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:192:13-66
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:191:13-64
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:191:13-64
 activity#com.chen.webview.TestLocalJS
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:193:9-65
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:193:9-65
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:193:19-62
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:193:19-62
 activity#com.chen.webview.TestLocalCheck
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:194:9-68
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:194:9-68
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:194:19-65
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:194:19-65
 activity#com.chen.webview.DynamicInjectJS
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:195:9-69
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:195:9-69
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:195:19-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:195:19-66
 activity#com.chen.webview.LoginCSDN
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:196:9-63
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:196:9-63
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:196:19-60
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:196:19-60
 activity#com.chen.webview.ParseJSON
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:197:9-63
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:197:9-63
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:197:19-60
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:197:19-60
 activity#com.chen.json.GetProjects
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:198:9-62
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:198:9-62
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:198:19-59
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:198:19-59
 activity#com.chen.network.TestNetwork
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:199:9-65
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:199:9-65
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:199:19-62
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:199:19-62
 activity#com.chen.network.TestURLConnection
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:200:9-71
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:200:9-71
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:200:19-68
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:200:19-68
 activity#com.chen.network.GetWeatherFromURL
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:201:9-71
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:201:9-71
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:201:19-68
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:201:19-68
 activity#com.chen.network.TestAsyncTask
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:202:9-67
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:202:9-67
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:202:19-64
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:202:19-64
 activity#com.chen.network.TestNetworkBitmap
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:203:9-71
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:203:9-71
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:203:19-68
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:203:19-68
 activity#com.chen.learn.bar_code.controller.CaptureActivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:207:9-209:52
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:207:9-209:52
 	android:screenOrientation
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:209:13-49
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:209:13-49
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:208:13-78
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:208:13-78
 activity#com.chen.learn.bar_code.controller.ResultActivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:211:9-213:52
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:211:9-213:52
 	android:screenOrientation
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:213:13-49
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:213:13-49
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:212:13-77
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:212:13-77
 activity#com.chen.learn.reflex_mechanism.controller.ReflexMechanismTestActivity
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:215:9-217:52
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:215:9-217:52
 	android:screenOrientation
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:217:13-49
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:217:13-49
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:216:13-98
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:216:13-98
+activity#com.dan.CustomActivity
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:219:9-59
+	android:name
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:219:19-56
+activity#com.dan.controller.SakuraActivity
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:221:9-70
+	android:name
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:221:19-67
+activity#com.dan.controller.RecycleViewActivity
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:224:9-226:54
+	android:theme
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:226:13-51
+	android:name
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:225:13-66
 service#com.chen.service.Myservice
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:221:9-62
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:230:9-62
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:221:18-59
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:230:18-59
 service#com.chen.service.MyBindService
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:222:9-66
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:231:9-66
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:222:18-63
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:231:18-63
 provider#com.chen.database.StudentProvider
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:224:9-228:74
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:233:9-237:74
 	android:exported
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:227:13-36
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:236:13-36
 	android:authorities
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:226:13-73
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:235:13-73
 	android:permission
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:228:13-71
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:237:13-71
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:225:13-61
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:234:13-61
 service#com.chen.service.GetCountService
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:230:9-239:19
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:239:9-248:19
 	android:exported
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:232:13-36
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:241:13-36
 	android:permission
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:233:13-72
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:242:13-72
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:231:13-60
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:240:13-60
 intent-filter#android.intent.category.DEFAULT+com.chen.service.getcountservice
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:234:13-238:29
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:243:13-247:29
 action#com.chen.service.getcountservice
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:235:17-75
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:244:17-75
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:235:25-72
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:244:25-72
 receiver#com.chen.broadcast_receiver.SpyA
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:241:9-247:20
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:250:9-256:20
 	android:exported
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:243:13-37
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:252:13-37
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:242:13-60
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:251:13-60
 intent-filter#B_SEND
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:244:13-246:29
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:253:13-255:29
 action#B_SEND
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:245:17-49
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:254:17-49
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:245:25-46
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:254:25-46
 receiver#com.chen.broadcast_receiver.SpyB
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:248:9-255:20
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:257:9-264:20
 	android:exported
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:250:13-37
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:259:13-37
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:249:13-60
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:258:13-60
 intent-filter#A_SEND+android.intent.action.BOOT_COMPLETED
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:251:13-254:29
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:260:13-263:29
 action#A_SEND
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:252:17-49
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:261:17-49
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:252:25-46
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:261:25-46
 action#android.intent.action.BOOT_COMPLETED
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:253:17-79
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:262:17-79
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:253:25-76
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:262:25-76
 receiver#com.chen.broadcast_receiver.Jan
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:256:9-263:20
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:265:9-272:20
 	android:exported
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:258:13-37
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:267:13-37
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:257:13-59
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:266:13-59
 intent-filter#A_SEND+B_SEND
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:259:13-262:29
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:268:13-271:29
 receiver#com.chen.learn.reflex_mechanism.controller.ActionReceiver
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:265:9-271:20
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:274:9-280:20
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:265:19-91
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:274:19-91
 intent-filter#com.chen.reflection
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:267:13-269:29
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:276:13-278:29
 action#com.chen.reflection
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:268:17-62
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:277:17-62
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:268:25-59
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:277:25-59
 provider#com.chen.fifth.test.LogContentProvider
-ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:273:9-277:74
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:282:9-286:74
 	android:exported
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:276:13-36
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:285:13-36
 	android:authorities
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:275:13-76
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:284:13-76
 	android:permission
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:277:13-71
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:286:13-71
 	android:name
-		ADDED from E:\learn\MyAndroid\app\src\main\AndroidManifest.xml:274:13-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:283:13-66
