@@ -2,18 +2,11 @@
 <items version="2" >
 
     <item
-        jar="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-e5e5d6c192df08cb3d0a2ae36638653fe2d42691.jar" />
-    </item>
-    <item
-        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-160e21806fe4fcbe2b20c34d1bbde421f69a17ae.jar" />
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\gson-2.3-a3d3cdd10d85735a8d7a5cfab1077c376e3d9a30.jar" />
     </item>
     <item
         jar="E:\chen\AndroidLearing\MyAndroid\app\libs\zxing.jar"
@@ -23,11 +16,11 @@
         <dex dex="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\pre-dexed\debug\zxing-976a715026c6e83982b11fad5079f15d449a7d5f.jar" />
     </item>
     <item
-        jar="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-e70870fdd9ae23db14aee0804bc5705d6e727a37.jar" />
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0-3d2c0bcc95ca7691dc08539814a4109cb0431c98.jar" />
     </item>
     <item
         jar="E:\learn\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
@@ -37,18 +30,53 @@
         <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-fc950432985bb7e4cc05e5ee7f42d7d5d3b5aa74.jar" />
     </item>
     <item
-        jar="E:\learn\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-362768f79a08d08a27c07a2e92f76cb7e9fbc143.jar" />
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-160e21806fe4fcbe2b20c34d1bbde421f69a17ae.jar" />
     </item>
     <item
-        jar="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jar="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-d23ef99c51fad6772e976bd18b574e0073dc962f.jar" />
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-b8e53101a09b185c93b57e5f421146402da57747.jar" />
+    </item>
+    <item
+        jar="E:\learn\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-db225c1e0e884b1efd0b652f7b2dc93fb2e59666.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-2b1024bd646d821c2927afe5fe5549d6ec97b0f8.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-8093d5e9caadf997de74ebff1b0015026b9f00d8.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0-e0a8788183908de33de0adaa7bef5623e29807c5.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-086c1bbbdb1a68b76cdb0f36c846febb08270733.jar" />
     </item>
     <item
         jar="E:\learn\MyAndroid\app\libs\zxing.jar"
@@ -58,25 +86,25 @@
         <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\zxing-2969311e37ab5c838ad4ef796e49cd822c0cc9e7.jar" />
     </item>
     <item
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
-        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\gson-2.3-a3d3cdd10d85735a8d7a5cfab1077c376e3d9a30.jar" />
-    </item>
-    <item
-        jar="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jar="E:\learn\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-21aad488d01d1267c5084d7b01b454b169c1d776.jar" />
+        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-362768f79a08d08a27c07a2e92f76cb7e9fbc143.jar" />
     </item>
     <item
-        jar="E:\learn\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jar="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="E:\learn\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-db225c1e0e884b1efd0b652f7b2dc93fb2e59666.jar" />
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-fb001809c17e8b38a7ab890a7f8efb604c7020aa.jar" />
+    </item>
+    <item
+        jar="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\pre-dexed\debug\classes-f47a4f885024aca4b606183487c57afc5b0e8f2e.jar" />
     </item>
 
 </items>

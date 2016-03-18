@@ -8,8 +8,10 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import com.dan.controller.LayoutActivity;
 import com.dan.controller.RecycleViewActivity;
 import com.dan.controller.SakuraActivity;
+import com.dan.controller.SupportActivity;
 import com.nineteen.myandroid.R;
 
 /**
@@ -17,8 +19,13 @@ import com.nineteen.myandroid.R;
  */
 public class CustomActivity extends FragmentActivity {
 
-    String[] titles = new String[]{"樱花飘落","RecyclerView"};
-    Class[] classes = new Class[]{SakuraActivity.class, RecycleViewActivity.class};
+    String[] titles = new String[]{"樱花飘落", "RecyclerView",
+            "android.support.desgin",
+            "具有过渡动画效果的布局Layout"};
+    Class[] classes = new Class[]{SakuraActivity.class,
+            RecycleViewActivity.class,
+            SupportActivity.class,
+            LayoutActivity.class};
 
 
     @Override

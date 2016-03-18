@@ -225,6 +225,13 @@
             android:name="com.dan.controller.RecycleViewActivity"
             android:theme="@style/RecyleViewTheme" />
 
+        <activity
+            android:name="com.dan.controller.SupportActivity"
+            android:theme="@style/RecyleViewTheme" />
+
+        <activity android:name="com.dan.controller.LayoutActivity"
+            android:theme="@style/RecyleViewTheme"/>
+
 
         <!-- 服务-->
         <service android:name="com.chen.service.Myservice" />

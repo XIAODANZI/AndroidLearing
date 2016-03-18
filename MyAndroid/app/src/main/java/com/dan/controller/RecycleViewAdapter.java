@@ -12,9 +12,10 @@ import com.nineteen.myandroid.R;
 import java.util.List;
 
 /**
+ * 一般的adapter
  * Created by Administrator on 2016/2/24.
  */
-public class RecycleViewAdapter extends RecyclerView.Adapter<MyViewHolder> {
+public class RecycleViewAdapter extends RecyclerView.Adapter<RecycleViewAdapter.MyViewHolder> {
 
     LayoutInflater mInflater;
     Context context;
@@ -39,18 +40,35 @@ public class RecycleViewAdapter extends RecyclerView.Adapter<MyViewHolder> {
         holder.txt.setText(mDatas.get(position));
     }
 
+    // 删除指定的Item
+    public void removeData(int position) {
+        mDatas.remove(position);
+        // 通知RecyclerView控件某个Item已经被删除
+        notifyItemRemoved(position);
+    }
+
+
+    // 在指定位置添加一个新的Item
+    public void adddItem(int position) {
+        mDatas.add(position, String.valueOf("hehe"));
+        // 通知RcyclerView控件在指定位置添加了Item
+        notifyItemInserted(position);
+    }
+
+
     @Override
     public int getItemCount() {
         return mDatas.size();
     }
-}
 
-class MyViewHolder extends RecyclerView.ViewHolder {
+    class MyViewHolder extends RecyclerView.ViewHolder {
 
-    TextView txt;
+        TextView txt;
 
-    public MyViewHolder(View itemView) {
-        super(itemView);
-        txt = (TextView) itemView.findViewById(R.id.txt);
+        public MyViewHolder(View itemView) {
+            super(itemView);
+            txt = (TextView) itemView.findViewById(R.id.txt);
+        }
     }
 }
+

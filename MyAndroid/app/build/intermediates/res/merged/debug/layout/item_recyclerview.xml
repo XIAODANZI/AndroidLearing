@@ -12,4 +12,5 @@
         android:layout_height="match_parent"
         android:gravity="center" />
 
-</FrameLayout><!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/layout/item_recyclerview.xml -->
+</FrameLayout>
+<!-- From: file:/E:/chen/AndroidLearing/MyAndroid/app/src/main/res/layout/item_recyclerview.xml -->

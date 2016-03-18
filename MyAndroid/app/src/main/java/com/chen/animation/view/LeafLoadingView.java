@@ -263,11 +263,11 @@ public class LeafLoadingView extends View {
                 // 根据时间计算旋转角度
                 canvas.save();
                 // 通过Matrix控制叶子旋转
-                Matrix matrix = new Matrix();
+                Matrix matrix = new Matrix(); // 这里生成了3*3单位阵
                 float transX = mLeftMargin + leaf.x;
                 float transY = mLeftMargin + leaf.y;
                 Log.i(TAG, "left.x = " + leaf.x + "--leaf.y=" + leaf.y);
-                matrix.postTranslate(transX, transY);
+                matrix.postTranslate(transX, transY); // 这里进行了左乘变换
                 // 通过时间关联旋转角度，则可以直接通过修改LEAF_ROTATE_TIME调节叶子旋转快慢
                 float rotateFraction = ((currentTime - leaf.startTime) % mLeafRotateTime)
                         / (float) mLeafRotateTime;
@@ -466,7 +466,8 @@ public class LeafLoadingView extends View {
          * 旋转方向，0：顺时针；1：逆时针
          */
         int rotateDirection;
-        /**z
+        /**
+         * z
          * 起始时间(ms)
          */
         long startTime;

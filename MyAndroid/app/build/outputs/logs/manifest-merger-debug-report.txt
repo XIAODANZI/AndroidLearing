@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:2:1-289:12
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:2:1-296:12
 	xmlns:android
 		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:2:11-69
 	package
@@ -43,10 +43,26 @@ ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:19:
 		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:19:22-78
 uses-sdk
 ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:appcompat-v7:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:24:9-38
 		INJECTED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml
@@ -55,6 +71,8 @@ MERGED from [com.android.support:support-v4:23.1.1] E:\chen\AndroidLearing\MyAnd
 		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:23:9-35
 		INJECTED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml
 		INJECTED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:23:9-75
 uses-permission#android.permission.CAMERA
 ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:30:5-65
 	android:name
@@ -80,10 +98,25 @@ ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:37:
 	android:name
 		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:37:22-65
 application
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:39:5-287:19
-MERGED from [com.android.support:appcompat-v7:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:39:5-294:19
+MERGED from [com.android.support:appcompat-v7:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] E:\chen\AndroidLearing\MyAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:43:9-41
 	android:allowBackup
@@ -560,91 +593,103 @@ ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:224
 		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:226:13-51
 	android:name
 		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:225:13-66
+activity#com.dan.controller.SupportActivity
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:228:9-230:54
+	android:theme
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:230:13-51
+	android:name
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:229:13-62
+activity#com.dan.controller.LayoutActivity
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:232:9-233:53
+	android:theme
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:233:13-51
+	android:name
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:232:19-67
 service#com.chen.service.Myservice
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:230:9-62
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:237:9-62
 	android:name
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:230:18-59
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:237:18-59
 service#com.chen.service.MyBindService
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:231:9-66
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:238:9-66
 	android:name
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:231:18-63
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:238:18-63
 provider#com.chen.database.StudentProvider
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:233:9-237:74
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:240:9-244:74
 	android:exported
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:236:13-36
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:243:13-36
 	android:authorities
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:235:13-73
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:242:13-73
 	android:permission
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:237:13-71
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:244:13-71
 	android:name
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:234:13-61
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:241:13-61
 service#com.chen.service.GetCountService
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:239:9-248:19
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:246:9-255:19
 	android:exported
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:241:13-36
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:248:13-36
 	android:permission
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:242:13-72
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:249:13-72
 	android:name
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:240:13-60
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:247:13-60
 intent-filter#android.intent.category.DEFAULT+com.chen.service.getcountservice
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:243:13-247:29
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:250:13-254:29
 action#com.chen.service.getcountservice
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:244:17-75
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:251:17-75
 	android:name
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:244:25-72
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:251:25-72
 receiver#com.chen.broadcast_receiver.SpyA
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:250:9-256:20
-	android:exported
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:252:13-37
-	android:name
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:251:13-60
-intent-filter#B_SEND
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:253:13-255:29
-action#B_SEND
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:254:17-49
-	android:name
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:254:25-46
-receiver#com.chen.broadcast_receiver.SpyB
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:257:9-264:20
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:257:9-263:20
 	android:exported
 		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:259:13-37
 	android:name
 		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:258:13-60
-intent-filter#A_SEND+android.intent.action.BOOT_COMPLETED
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:260:13-263:29
-action#A_SEND
+intent-filter#B_SEND
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:260:13-262:29
+action#B_SEND
 ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:261:17-49
 	android:name
 		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:261:25-46
+receiver#com.chen.broadcast_receiver.SpyB
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:264:9-271:20
+	android:exported
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:266:13-37
+	android:name
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:265:13-60
+intent-filter#A_SEND+android.intent.action.BOOT_COMPLETED
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:267:13-270:29
+action#A_SEND
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:268:17-49
+	android:name
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:268:25-46
 action#android.intent.action.BOOT_COMPLETED
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:262:17-79
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:269:17-79
 	android:name
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:262:25-76
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:269:25-76
 receiver#com.chen.broadcast_receiver.Jan
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:265:9-272:20
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:272:9-279:20
 	android:exported
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:267:13-37
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:274:13-37
 	android:name
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:266:13-59
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:273:13-59
 intent-filter#A_SEND+B_SEND
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:268:13-271:29
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:275:13-278:29
 receiver#com.chen.learn.reflex_mechanism.controller.ActionReceiver
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:274:9-280:20
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:281:9-287:20
 	android:name
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:274:19-91
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:281:19-91
 intent-filter#com.chen.reflection
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:276:13-278:29
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:283:13-285:29
 action#com.chen.reflection
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:277:17-62
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:284:17-62
 	android:name
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:277:25-59
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:284:25-59
 provider#com.chen.fifth.test.LogContentProvider
-ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:282:9-286:74
+ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:289:9-293:74
 	android:exported
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:285:13-36
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:292:13-36
 	android:authorities
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:284:13-76
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:291:13-76
 	android:permission
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:286:13-71
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:293:13-71
 	android:name
-		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:283:13-66
+		ADDED from E:\chen\AndroidLearing\MyAndroid\app\src\main\AndroidManifest.xml:290:13-66

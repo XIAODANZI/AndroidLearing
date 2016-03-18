@@ -114,4 +114,9 @@
     <string name="turnon">开灯</string>
     <string name="turnoff">关灯</string>
 
+    <string name="recyclerView0">Listview</string>
+    <string name="recyclerView1">纵向GridView</string>
+    <string name="recyclerView2">横向GridView</string>
+    <string name="recyclerView3">瀑布流</string>
+
 </resources>
