@@ -12,6 +12,7 @@ import com.dan.controller.LayoutActivity;
 import com.dan.controller.RecycleViewActivity;
 import com.dan.controller.SakuraActivity;
 import com.dan.controller.SupportActivity;
+import com.dan.controller.WaveViewActivity;
 import com.nineteen.myandroid.R;
 
 /**
@@ -21,11 +22,12 @@ public class CustomActivity extends FragmentActivity {
 
     String[] titles = new String[]{"樱花飘落", "RecyclerView",
             "android.support.desgin",
-            "具有过渡动画效果的布局Layout"};
+            "具有过渡动画效果的布局Layout", "波浪"};
     Class[] classes = new Class[]{SakuraActivity.class,
             RecycleViewActivity.class,
             SupportActivity.class,
-            LayoutActivity.class};
+            LayoutActivity.class,
+            WaveViewActivity.class};
 
 
     @Override

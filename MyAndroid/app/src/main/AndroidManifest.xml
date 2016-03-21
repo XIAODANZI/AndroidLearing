@@ -229,8 +229,13 @@
             android:name="com.dan.controller.SupportActivity"
             android:theme="@style/RecyleViewTheme" />
 
-        <activity android:name="com.dan.controller.LayoutActivity"
-            android:theme="@style/RecyleViewTheme"/>
+        <activity
+            android:name="com.dan.controller.LayoutActivity"
+            android:theme="@style/RecyleViewTheme" />
+
+        <activity
+            android:name="com.dan.controller.WaveViewActivity"
+            android:theme="@style/RecyleViewTheme" />
 
 
         <!-- 服务-->
